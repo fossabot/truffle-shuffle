@@ -20,6 +20,8 @@ Truffle Shuffle is a library of an Android UI component of a card gallery with a
 </div>
 
 # Quick Start
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Ftruffle-shuffle.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaxmckone7%2Ftruffle-shuffle?ref=badge_shield)
+
 
 To run the example project, clone the repo and run the Android application through [Android Studio](https://developer.android.com/studio/) on an Emulator.
 You can play with the example by
@@ -94,3 +96,7 @@ repositories {
   - In order to submit a pull request, please fork this repo and submit a PR from your forked repo.
   - Have a detailed message as to what your PR fixes/enhances/adds.
   - Each PR must get an approval before we will merge.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Ftruffle-shuffle.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaxmckone7%2Ftruffle-shuffle?ref=badge_large)
